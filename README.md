@@ -74,7 +74,7 @@ As faixas têm 112 cm de largura cada. Os limites são uma escala do protótipo 
 
 ## 4. Componentes e fluxo de comunicação em rede
 
-arquitetura aqui
+<img width="1158" height="381" alt="Arquitetura" src="https://github.com/user-attachments/assets/bb15022c-0f0b-4e9d-8f5d-ec7208d1898d" />
 
 **O que está implementado e o que é proposta.** O protótipo (sensor, Arduino Uno, LEDs, buzzer e Monitor Serial) é a parte funcional. Toda a parte de rede, ESP32 e API descrita nesta seção é uma **proposta conceitual**. O código, os testes, as evidências e a demonstração do repositório são do protótipo atual, que não usa rede.
 
